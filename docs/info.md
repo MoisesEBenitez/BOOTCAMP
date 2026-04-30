@@ -9,13 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-este es un proyecto de prueba que estamos socializando en el salon A2405.
+Este es un proyecto de prueba que estamos socializando en el salon A2405.
 
 
 ## How to test
 
-conectar varias entradas y salidas a los diferentes elementos de la palicacion final.
+Conectar varias entradas y salidas a los diferentes elementos de la palicacion final.
 
 ## External hardware
 
-este circuito integrado usa un chip basado en un cristal, servomotores, leds, entre otros componentes relevante.
+Este circuito integrado usa un chip basado en un cristal, servomotores, leds, entre otros componentes relevante.
