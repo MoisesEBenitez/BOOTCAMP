@@ -11,7 +11,6 @@ You can also include images in this folder and reference them in the markdown. E
 
 Este es un proyecto de prueba que estamos socializando en el salon A2405.
 
-
 ## How to test
 
 Conectar varias entradas y salidas a los diferentes elementos de la palicacion final.
