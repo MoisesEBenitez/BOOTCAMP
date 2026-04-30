@@ -8,12 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+este es un proyecto de prueba que estamos socializando en el salon A2405
 
-Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+conectar varias entradas y salidas
 
 ## External hardware
 
